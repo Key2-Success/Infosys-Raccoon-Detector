@@ -6,6 +6,9 @@ Since I was new to computer vision, I heavily followed online tutorials. I have 
 
 ## References
 I would like to give my due respect and acknowledgements to the following online tutorials that I followed:
+
 https://github.com/experiencor/keras-yolo2
+
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
+
 https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/
